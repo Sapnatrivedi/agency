@@ -1,0 +1,171 @@
+.img2 {
+	width: 100%;
+	height: 300px;
+}
+.consoul {
+	margin-top: 10% !important;
+}
+p {
+	text-align: justify;
+}
+.boundry {
+	border: 4px solid #d1ebf9;
+}
+.foot {
+	background-color: #232323;
+}
+.foot-pad {
+	padding: 5%;
+}
+h6 {
+	color: white;
+}
+span {
+	color: white;
+}
+li {
+	padding-top: 10px;
+}
+.subscribe-form input {
+	border-radius: 2px;
+	width: 100%;
+	background: rgba(255, 255, 255, 0.1) !important;
+	border: none;
+	color: #fff !important;
+	font-size: 16px;
+	padding: 1rem;
+}
+.subscribe-form .submit {
+	color: #fff !important;
+	font-size: 16px;
+	background: #1b9ce3 !important;
+	border: none !important;
+}
+h4 {
+	color: white;
+}
+.fab {
+	font-size: 2rem;
+	font-size: 2rem;
+
+	position: relative;
+	top: 13px;
+	left: 15px;
+}
+.social {
+	height: 60px;
+	width: 60px;
+	display: block;
+	float: left;
+	background: rgba(255, 255, 255, 0.05);
+	border-radius: 50%;
+}
+.box {
+	position: relative;
+	overflow: hidden;
+	text-align: center;
+}
+.backcard {
+	background: #f0f9fd !important;
+	padding: 20px 30px;
+}
+.backcard:hover {
+	background-color: #1b9ce3 !important;
+	color: #fff !important;
+}
+.service {
+	padding: 20px 30px;
+}
+.service:hover {
+	background-color: #1b9ce3 !important;
+	color: #fff !important;
+}
+.round {
+	height: 90px !important;
+	width: 90px !important;
+	border-radius: 50%;
+	position: relative;
+	padding-right: 8px;
+}
+.card_design {
+	/* height: 200px; */
+
+	border: 3px solid #d1ebf9 !important;
+}
+.About_carousel {
+	width: 10px !important;
+	height: 10px !important;
+	border-radius: 50% !important;
+	background-color: #1b9ce3 !important;
+}
+.About_carousel_position {
+	bottom: -50px !important;
+}
+.overlay {
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	background-color: #1b9ce3;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	opacity: 0;
+
+	transition: 0.5s ease;
+}
+.cardallow {
+	position: relative;
+	width: 100%;
+}
+
+.cardallow:hover .overlay {
+	opacity: 0.9;
+}
+.text {
+	position: relative;
+	top: 40%;
+	/* left: 30%;
+	transform: translate(-30%, -30%);
+	-ms-transform: translate(-30%, -30%); */
+}
+@media (min-width: 768px) {
+	.text {
+		position: relative;
+		top: 20%;
+	}
+}
+.meta {
+	background: #1b9ce3;
+}
+.meta .day {
+	font-weight: 700;
+	font-size: 20px;
+}
+.meta .month {
+	font-size: 13px;
+}
+.meta .year {
+	font-size: 13px;
+}
+.meta span {
+	display: block;
+	color: #fff;
+}
+
+/* .blog_over {
+	position: relative;
+} */
+
+.text-overlay {
+	position: absolute;
+	top: 0;
+	left: 0;
+	padding: 1rem;
+}
+.bg_light {
+	background: #fafafa !important;
+}
+.contact-form {
+	width: 100%;
+}

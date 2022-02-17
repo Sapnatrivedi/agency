@@ -9,7 +9,6 @@ import About from './About';
 import Home from './Home';
 import Contact from './Contact';
 import Navbar from './Navbar';
-import { Router } from 'react-router-dom';
 import Footer from './Footer';
 import Project from './Project';
 import Services from './Services';

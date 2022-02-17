@@ -1,8 +1,8 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
-import About from './About';
+
 import './navbar.css';
-import Crousel from './Crousel';
+
 function Navbar() {
 	return (
 		<>

@@ -29,7 +29,7 @@ const Slidercalling = () => {
 															<div className=' card-text'>
 																<p>Far far away, behind the word mountains, far from the countries Vokalia and consonantia, there live the behind texts.</p>
 															</div>
-															<h5></h5>
+															
 														</div>
 													</div>
 												</div>
@@ -45,7 +45,7 @@ const Slidercalling = () => {
 														<div className='col-md-8'>
 															<div className=' card-text'></div>
 															<p>Far far away, behind the word mountains, far from the countries Vokalia and consonantia, there live the behind texts.</p>
-															<h5></h5>
+													
 														</div>
 													</div>
 												</div>
@@ -62,7 +62,7 @@ const Slidercalling = () => {
 															<div className=' card-text'>
 																<p>Far far away, behind the word mountains, far from the countries Vokalia and consonantia, there live the behind texts.</p>
 															</div>
-															<h5></h5>
+															
 														</div>
 													</div>
 												</div>

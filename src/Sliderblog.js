@@ -41,7 +41,7 @@ const Sliderblog = (props) => {
 		],
 	};
 
-	const cho = 'width:18rem';
+	
 	return (
 		<div>
 			<div className='container my-5'>

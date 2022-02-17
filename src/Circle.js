@@ -1,6 +1,6 @@
 import React from 'react';
 import './coursel.css';
-import { NavLink } from 'react-router-dom';
+
 const Circle = (Props) => {
 	return (
 		<div>

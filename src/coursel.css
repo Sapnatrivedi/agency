@@ -34,3 +34,9 @@
 	background-color: transparent !important;
 	color: #1b9ce3 !important;
 }
+@media (max-width: 575.98px) {
+	.slider {
+		height: 50vh !important;
+		min-height: 200px !important;
+	}
+}
